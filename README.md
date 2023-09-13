@@ -1,0 +1,1 @@
+# django_hw49_forma_models_table_search
